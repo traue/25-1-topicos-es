@@ -1,4 +1,6 @@
-**Atividade Prática sobre DevOps – Conceitual**
+## Atividade Conceitual sobre DevOps
+
+### Instruções 
 
 Formem grupos de até 4 alunos.
 
@@ -33,7 +35,7 @@ e
 10. Explique o conceito de "débito técnico" e discuta como a adoção da cultura DevOps pode ajudar a reduzir esse problema.
 
 
-**Produto Final:**
+### Entrega
 
 - Entreguem um breve relatório escrito, no formato digital (PDF), contendo as respostas das questões acima. Elaborem bem as respsotas (nada de respostas genéricas hein!)
 - O relatório deve ser objetivo e ter entre 1 a 2 páginas.
